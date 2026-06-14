@@ -1,3 +1,6 @@
+[queries.sql](https://github.com/user-attachments/files/28926749/queries.sql)
+[Insert data.sql](https://github.com/user-attachments/files/28926747/Insert.data.sql)
+[Create tables.sql](https://github.com/user-attachments/files/28926742/Create.tables.sql)
 # ecommerce-database-management-system-
 A MySQL-based E-Commerce Database Management System that manages customers, products, and orders using relational database concepts, primary/foreign keys, and SQL queries for sales analysis.
 # E-Commerce Database Management System
